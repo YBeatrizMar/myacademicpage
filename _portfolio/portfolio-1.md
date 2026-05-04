@@ -5,5 +5,3 @@ Data are collected through naturalistic recordings and processed using transcrip
 This project contributes not only to computational and corpus linguistics but also to the digital humanities by combining research in pragmatics and sociolinguistics with the design of digital corpora, thereby providing a resource for interdisciplinary research on language, migration, and identity in Miami."
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
