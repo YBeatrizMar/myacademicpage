@@ -1,11 +1,11 @@
 ---
-title: "Visiting Professor — Online Diploma in Literature"
+title: "Visiting Professor — Diploma in Literature"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-teaching-uaq-visiting
 venue: "Universidad Autónoma de Querétaro"
 date: 2022-12-31
-location: "Querétaro, Mexico"
+location: "Querétaro, México"
 ---
 Visiting Professor at the Online Diploma in Ibero-American Literature "Hugo Gutiérrez Vega", Universidad Autónoma de Querétaro (2021-2022).
 
