@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2006-teaching-havana
 venue: "University of Havana, Faculty of Arts and Letters and Institute of Ecclesiastical Studies Padre Félix Varela"
-date: 2006-01-01
+date: 2020-01-01
 location: "Havana, Cuba"
 ---
 Professor and researcher at the University of Havana (2010-2020). Teacher in language academies and private lessons (2006-2024).
