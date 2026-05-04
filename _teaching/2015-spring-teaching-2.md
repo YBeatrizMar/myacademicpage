@@ -1,5 +1,5 @@
 ---
-title: "Visiting Professor — Online Diploma in Ibero-American Literature"
+title: "Visiting Professor — Online Diploma in Literature"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-teaching-uaq-visiting
