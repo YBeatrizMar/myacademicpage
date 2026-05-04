@@ -10,9 +10,9 @@ var addressPoints = [
     -99.8837376
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Presentation for Ameresco-Quer\u00e9taro. Collection of Recordings<br />Society and Language (LLM-Spanish), UAQ; Quer\u00e9taro, Mexico",
+    20.8052225,
+    -99.8837376
   ],
   [
     "The Paths of the Es.Vag.Atenuation Project and the Ameresco Corpus: Dialogue, Updates, and Provocations<br />International Seminar on Linguistic Research in the Spanish-speaking World; Havana, Cuba",
