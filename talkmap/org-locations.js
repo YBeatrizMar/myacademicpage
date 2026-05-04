@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Cuba Converses. A Study of Contemporary Colloquial Spanish in Cuba<br />Institute of Romance Studies, University of Innsbruck; Innsbruck, Austria",
+    47.2654296,
+    11.3927685
   ],
   [
     "Poetry vs. Gender Violence<br />Autonomous University of Quer\u00e9taro; Quer\u00e9taro, Mexico",
