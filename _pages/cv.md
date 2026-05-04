@@ -37,19 +37,19 @@ redirect_from:
 
 * NWAV 52, Miami Beach, 2024.
 * LASA, Boston, 2019; Barcelona, 2018; New York, 2016.
-* XXII Deutscher Hispanistentag, Berlin, 2019; Heidelberg, 2015
+* XXII Deutscher Hispanistentag, Berlin, 2019; Heidelberg, 2015.
 * VII International Colloquium of the EDICE Program, Pasadena, 2016.
 
 ## Other Work Experience
 
 * Editor, proofreader, and administrative coordinator, Rialta Ediciones and No Country Magazine.
 * Translator (English–Spanish), Anaya Multimedia.
-* Researcher, ICAA & MDPL (internship), CISAV
+* Researcher, ICAA & MDPL (internship), CISAV.
 
 ## Languages
 
 * Spanish — Native.
-* English — Upper Intermediate: CEFR B2
+* English — Upper Intermediate: CEFR B2.
 * German — A1.
 
 ## Computer Skills
