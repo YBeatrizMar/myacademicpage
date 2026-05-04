@@ -3,7 +3,7 @@ title: "Cuba Speaks. A Study on Contemporary Colloquial Spanish in Cuba"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: This paper is about the number 2. The number 3 is left for future work.'
+excerpt: This paper is about the number 2. The number 3 is left for future work.
 date: 2022-01-01
 venue: <i>La lengua de las Américas</i>
 citation: 'Martínez Abreu, Yohana Beatriz. (2022). &quotCuba Speaks. A Study on Contemporary Colloquial Spanish in Cuba&quot; <i>La lengua de las Américas</i>. Innsbruck, Austria. 2022, pp. 357–372.'
