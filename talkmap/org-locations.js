@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "The Paths of the Es.Vag.Atenuation Project and the Ameresco Corpus: Dialogue, Updates, and Provocations<br />International Seminar on Linguistic Research in the Spanish-speaking World; Havana, Cuba",
+    23.135305,
+    -82.3589631
   ]
 ];
